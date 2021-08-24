@@ -1,0 +1,18 @@
+Una variable es un elemento que se emplea para almacenar y hacer referencia a otro valor, es una expresion que puede tomar diferentes valores
+las hay de varios tipos
+
+por ejemplo hay variables numéricas, de texto, booleana etc…
+
+ejemplo de variable numérica  x = 1
+ejemplo de variable booleana x = true
+ejemplo de variable de texto x = “Hola mundo”
+
+String es una clase que se usa para manipular cadenas de caracteres, o cadenas de texto, siempre deben ir entre comillas
+
+Una función es una porción de texto que podemos volver a usar, para realizar ciertas operaciones definidas dentro de ella, con esto nos ayuda a no estar escribiendo varias veces el mismo código repetido, sino que solo llamamos a la función, y le pasamos las variables necesarias, para que nos resuelva lo que necesitamos
+
+Declaracion if
+Es una estructura de control
+básicamente es un enunciado condicional, que crea una bifurcación en la ejecución del programa, si se cumple una cierta condición dada, el programa realiza unas ciertas instrucciones, si no se cumple la condición, entonces el programa salta, y realiza otras instrucciones
+
+
