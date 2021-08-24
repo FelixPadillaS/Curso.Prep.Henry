@@ -1,0 +1,17 @@
+array = matriz
+
+Una matriz puede contener una gran cantidad de datos ordenados, 
+
+Para declarar una matriz en javascript lo hacemos como si fuera una variable y simplemente agregamos al final 
+de su nombre corchetes cuadrados []
+matriz [];
+
+Para acceder a los datos dentro de una matriz, debemos indicar la posición del dato, que siempre inicia en 
+cero
+
+matriz[0] = primer dato
+matriz[1] = segundo dato
+etc…
+
+matriz.length nos regresa la cantidad de datos almacenados en una matriz
+
