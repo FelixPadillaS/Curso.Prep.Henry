@@ -1,0 +1,22 @@
+
+bucle for, for es una estructura de control que nos permite hacer iteraciones
+su sintaxis mas comun consiste de tres condiciones
+
+for (var i=0; i<string.length; i++) {
+}
+
+donde se declara una variable, en este caso i que aqui inicia desde cero
+pero puede iniciar en cualquier otro valor, para cadenas de caracteres
+lo que se hace es pedir la longitud de la cadena con el .length, y por
+ultimo el modo como se va a aumentar o disminuir el valor de i, en este
+caso de uno en uno al usar el i++, que quiere decir i = i + 1
+
+
+&& es el operador logico and
+
+|| es el operador logico or
+
+! es el operador logico not
+
+
+
